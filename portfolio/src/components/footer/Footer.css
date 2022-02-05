@@ -1,0 +1,11 @@
+.footer {
+  background-image: url("https://uploads-ssl.webflow.com/5e2520252e290c852ed89624/5e9f89227fb48a0cac861026_New-Footer-BG%401x.png");
+  background-position: 50% 100%;
+  background-size: 1724px;
+  background-repeat: no-repeat;
+  margin-top: auto;
+  overflow: visible;
+  padding: 0 30px;
+  width: 100vw;
+  height: 50vh;
+}
